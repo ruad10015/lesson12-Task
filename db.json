@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": "2dca",
+      "name": "Vuqar",
+      "surname": "Aslanov",
+      "age": "24",
+      "score": "99"
+    },
+    {
+      "id": "2dba",
+      "name": "Vuqar",
+      "surname": "Aslanov",
+      "age": "24",
+      "score": "99"
+    },
+    {
+      "id": "2dda",
+      "name": "Vuqar",
+      "surname": "Aslanov",
+      "age": "24",
+      "score": "99"
+    },
+    {
+      "id": "cc95",
+      "name": "Ruad",
+      "surname": "Aslanov",
+      "age": "0",
+      "score": 0
+    }
+  ]
+}
